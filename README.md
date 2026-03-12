@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @jeffhraim
-- 👀 I’m interested in anything related to DATA.
-- 🌱 I’m continuously learning Data Science, Machine Learning, and Data Analytics.
-- 💞️ I’m looking to collaborate on Projects!
+Economist and data scientist exploring the intersection of machine learning, financial markets, and economic systems. My work focuses on predictive modeling, time series analysis, and data-driven decision making, with applications ranging from stock market forecasting to macroeconomic research.
+
+I enjoy building models that turn complex data into practical insights. My research includes ensemble machine learning models for financial prediction, combining techniques such as LSTM, Random Forest, and ARIMA.
+
+Outside of research, I am interested in algorithmic trading, econometrics, and the philosophy of strategy, particularly how mathematical reasoning and game theory apply to real-world decisions.
+
 - 📫 How to reach me @balillajeffhraim@gmail.com
 
 <!---
