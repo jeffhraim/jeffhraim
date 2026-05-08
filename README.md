@@ -4,7 +4,7 @@ I enjoy building models that turn complex data into practical insights. My resea
 
 Outside of research, I am interested in algorithmic trading, econometrics, and the philosophy of strategy, particularly how mathematical reasoning and game theory apply to real-world decisions.
 
-- 📫 How to reach me @balillajeffhraim@gmail.com
+- 📫 How to reach me? Search me in LinkedIn: Jeffhraim Balilla
 
 <!---
 jeffhraim/jeffhraim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
